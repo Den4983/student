@@ -1,0 +1,17 @@
+C:\Users\Master\source\repos\student\student\bin\Debug\student.exe.config
+C:\Users\Master\source\repos\student\student\bin\Debug\student.exe
+C:\Users\Master\source\repos\student\student\bin\Debug\student.pdb
+C:\Users\Master\source\repos\student\student\bin\Debug\EntityFramework.dll
+C:\Users\Master\source\repos\student\student\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Master\source\repos\student\student\bin\Debug\EntityFramework.xml
+C:\Users\Master\source\repos\student\student\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Master\source\repos\student\student\obj\Debug\student.Properties.Resources.resources
+C:\Users\Master\source\repos\student\student\obj\Debug\student.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\student\student\obj\Debug\student.csproj.CopyComplete
+C:\Users\Master\source\repos\student\student\obj\Debug\student.exe
+C:\Users\Master\source\repos\student\student\obj\Debug\student.pdb
+C:\Users\Master\source\repos\student\student\obj\Debug\student.Form1.resources
+C:\Users\Master\source\repos\student\student\obj\Debug\student.Form2.resources
+C:\Users\Master\source\repos\student\student\obj\Debug\student.Form3.resources
+C:\Users\Master\source\repos\student\student\obj\Debug\student.csprojAssemblyReference.cache
